@@ -7,7 +7,7 @@ int value = 0;
 
 
 
-std::cout<<"VALUE is:"<<value<<std::endl
+std::cout<<"Value is:"<<value<<std::endl
 
 
 
