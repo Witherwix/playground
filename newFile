@@ -1,0 +1,15 @@
+#include <iostream>
+
+
+int main()
+{
+int value = 0;
+
+
+
+std::cout<<"VALUE is:"<<value<<std::endl
+
+
+
+return 0;
+}
